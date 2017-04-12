@@ -23,7 +23,6 @@ Design a single-player game, played in the command line, in which you attempt to
 
 ## Requirements
 
-- The player should be able to quit the command line and resume their game later.
 - The player should be able to clear the board and start a new game.
 - The player should be able to see their score and number of turns taken.
 - The player should be able to see where (s)he placed torpedoes, and whether each torpedo was a hit or miss.
@@ -33,6 +32,7 @@ Design a single-player game, played in the command line, in which you attempt to
 - Set a maximum number of turns. If the player doesn't sink both ships within that number of turns, or have fewer remaining turns than there are remaining un-hit ship spaces, they lose.
 - Expand the grid beyond 10 x 10, and include more ships... maybe of different lengths!
 - Make the game's interface in the command line as visually-stunning as possible! Text-based art is encouraged.
+- The player should be able to quit the command line and resume their game later.
 
 ## Mega-Bonus
 
