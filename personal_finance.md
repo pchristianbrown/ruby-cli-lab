@@ -28,11 +28,11 @@ see the total 'cost' of transactions in that category.
 
 - All features listed above
 - Transactions should support debits and credits (+ and - values)
-- The user should be able to quit the command line not lose their transactions.
 
 ## Bonus
 
-* Allow filtering by date
-* Support tracking multiple accounts (i.e. checking / savings), which have many transactions (a given
+- Allow filtering by date
+- Support tracking multiple accounts (i.e. checking / savings), which have many transactions (a given
   transaction only belongs to one account)
+- The user should be able to quit the command line not lose their transactions.
 * Other ideas you think would be useful!
